@@ -1,1 +1,1 @@
-# Cat-Dog-Classification-ViT
+# ViT from scratch by Daryl Fauzan
